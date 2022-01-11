@@ -54,7 +54,7 @@ lqipWidth = "20x"
 smallLimit = "300"
 
 # Footer
-footer = "Powered by <a href=\"https://www.netlify.com/\">Netlify</a>, <a href=\"https://gohugo.io/\">Hugo</a>, and <a href=\"https://getdoks.org/\">Doks</a>"
+footer = "powered by <a href=\"https://getdoks.org/\" target=\"_blank\">Doks</a> | an <a href=\"https://openvideo.tech\" target=\"_blank\">OpenVideo.tech</a> project | supported by <a href=\"https://grantfortheweb.org/\" target=\"_blank\">Grant for the Web</a>"
 
 # Feed
 copyRight = "Copyright (c) 2020-2021 Henk Verlinde"
