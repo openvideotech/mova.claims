@@ -1,10 +1,10 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Doks"
+title = "mova"
 titleSeparator = "-"
-titleAddition = "Modern Documentation Theme"
-description = "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
+titleAddition = "Community ledger of fingerprints and for web monetized videos"
+description = "Working proposal for a community-run database of ownership claims of videos matched to ISCC fingerprints."
 
 ## Documentation
 # docsVersion = "0.3"
@@ -16,7 +16,7 @@ domainTLD = "doks.netlify.app"
 titleHome = "Doks Theme"
 
 ## Twitter Cards
-twitterSite = "@getdoks"
+twitterSite = "@openvideotech"
 twitterCreator = "@henkverlinde"
 
 ## JSON-LD

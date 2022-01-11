@@ -1,7 +1,7 @@
 ---
-title : "Modern Documentation Theme"
-description: "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
-lead: "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
+title : "A community-owned database of video fingerprints"
+description: "Working prototype for a community-run database of ownership claims of videos matched to ISCC fingerprints."
+lead: "Introducing a working prototype for a community-run database of rights ownership claims for both Creative Commons and Web Monetizable videos, matched with their <a href=\"https://iscc.codes\" target=\"_blank\">ISCC*</a> fingerprints."
 date: 2020-10-06T08:47:36+00:00
 lastmod: 2020-10-06T08:47:36+00:00
 draft: false
