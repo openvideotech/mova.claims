@@ -13,38 +13,14 @@ weight: 630
 toc: true
 ---
 
-## Hyas?
+## mova?
 
-Doks is a [Hyas theme](https://gethyas.com/themes/) build by the creator of Hyas.
+mova is an application to generate [International Standard Content Codes (ISCCs)](/docs/concepts/iscc) from your videos, and publish the code with Claims linking it to extra data, such as a  on a [peer-to-peer](/docs/concepts/peer-to-peer) [distributed database](/docs/concepts/holochain).
 
-## Footer notice?
+## lower case?
 
-Please keep it in place.
+mova can be written in all lower case or all upper case —MOVA— but we try to avoid a mix.
 
-## Keyboard shortcuts for search?
+## Who made this?
 
-- focus: `Ctrl + /`
-- select: `↓` and `↑`
-- open: `Enter`
-- close: `Esc`
-
-## Other documentation?
-
-- [Netlify](https://docs.netlify.com/)
-- [Hugo](https://gohugo.io/documentation/)
-
-## Can I get support?
-
-Create a topic:
-
-- [Netlify Community](https://community.netlify.com/)
-- [Hugo Forums](https://discourse.gohugo.io/)
-- [Doks Discussions](https://github.com/h-enk/doks/discussions)
-
-## Contact the creator?
-
-Send `h-enk` a message:
-
-- [Netlify Community](https://community.netlify.com/)
-- [Hugo Forums](https://discourse.gohugo.io/)
-- [Doks Discussions](https://github.com/h-enk/doks/discussions)
+mova was built by [Sprilllow](https://sprillow.com) with [Nicol Wistreich](https://helloideas.com), with funding by Grant for the Web. It's a hosted project of [openvideo.tech](https://openvideo.tech).

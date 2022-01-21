@@ -23,10 +23,17 @@ $blue-300: #8ed6fb;
 $pink-100: #fcfaff;
 $pink-500: #d32e9d;
 
-$primary: $purple;
+$desert: #B2501B;
+$elm: #22796F;
+$tepapa: #234F3D;
+$spring: #fcfbf9;
+$cultured: #f7f6f4;
+$pampas: #fbf1ed;
 
-$color-btn-bg: $pink-500;
-$color-btn-border: darken($pink-500, 5%);
+$primary: $elm;
+
+$color-btn-bg: $desert;
+$color-btn-border: darken($desert, 5%);
 $color-btn-text: $white;
 
 // Options
@@ -62,7 +69,7 @@ $navbar-light-toggler-icon-bg: none;
 //
 // Settings for the `<body>` element.
 
-$body-bg:                   $white;
+$body-bg:                   $spring;
 $body-color:                $black;
 
 // Links
@@ -105,7 +112,7 @@ $border-color:                $gray-200;
 // Font, line-height, and color for body text, headings, and more.
 
 // stylelint-disable value-keyword-case
-$font-family-sans-serif:      "Jost", -apple-system, blinkmacsystemfont, "Segoe UI", roboto, "Helvetica Neue", arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+$font-family-sans-serif:     -apple-system, blinkmacsystemfont, "Segoe UI", roboto, "Helvetica Neue", arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 $font-family-monospace:       sfmono-regular, menlo, monaco, consolas, "Liberation Mono", "Courier New", monospace;
 $font-family-base:            $font-family-sans-serif;
 // stylelint-enable value-keyword-case
@@ -118,10 +125,20 @@ $font-size-sm:                $font-size-base * 0.875;
 
 // $line-height-base:            1.5;
 
-$headings-font-family:        null;
+$headings-font-family:        "Fraunces", -apple-system, blinkmacsystemfont, "Segoe UI", roboto, "Helvetica Neue", arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 $headings-font-weight:        700;
 
 $lead-font-weight:            400;
+
+.navbar-brand {
+  font-family: $headings-font-family;
+}
+.navbar-light {
+  background-color: $cultured !important;
+}
+[data-dark-mode] .navbar-light {
+  background-color: #212529 !important;
+}
 
 // Spacing
 //

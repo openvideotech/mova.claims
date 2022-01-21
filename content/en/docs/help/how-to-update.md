@@ -1,5 +1,5 @@
 ---
-title: "How to Update"
+title: "How to update"
 description: "Regularly update the installed npm packages to keep your Doks website stable, usable, and secure."
 lead: "Regularly update the installed npm packages to keep your Doks website stable, usable, and secure."
 date: 2020-11-12T13:26:54+01:00
@@ -13,20 +13,8 @@ weight: 610
 toc: true
 ---
 
-{{< alert icon="💡" text="Learn more about <a href=\"https://docs.npmjs.com/about-semantic-versioning\">semantic versioning</a> and <a href=\"https://docs.npmjs.com/cli/v6/using-npm/semver#advanced-range-syntax\">advanced range syntax</a>." />}}
+{{< alert icon="💡" text="Not all updates are the same. Small updates change the code, and won't impact data on the system. Major updates can break the existing data structure and impact your data - and you will be warned of this before updating." />}}
 
-## Check for outdated packages
+## Download and replace 
 
-The [`npm outdated`](https://docs.npmjs.com/cli/v7/commands/npm-outdated) command will check the registry to see if any (or, specific) installed packages are currently outdated:
-
-```bash
-npm outdated [[<@scope>/]<pkg> ...]
-```
-
-## Update packages
-
-The [`npm update`](https://docs.npmjs.com/cli/v7/commands/npm-update) command will update all the packages listed to the latest version (specified by the tag config), respecting semver:
-
-```bash
-npm update [<pkg>...]
-```
+Download the latest or recommended package, unpack/mount and drag into your Applications folder, replacing the existing application.

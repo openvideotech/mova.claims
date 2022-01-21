@@ -13,18 +13,7 @@ weight: 620
 toc: true
 ---
 
-## Problems updating npm packages
+## WebSocket not enabled
 
-Delete the `./node_modules` folder, and run again:
+This means there is no connection to Holochain.
 
-```bash
-npm install
-```
-
-## Problems with cache
-
-Delete the temporary directories:
-
-```bash
-npm run clean
-```
