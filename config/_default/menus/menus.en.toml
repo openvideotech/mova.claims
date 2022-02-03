@@ -32,3 +32,11 @@
    name = "Privacy"
    url = "/privacy-policy/"
    weight = 10
+[[footer]]
+  name = "Code of Conduct"
+   url = "/code-of-conduct/"
+   weight = 11
+[[footer]]
+  name = "Terms of Service"
+   url = "/terms-of-service/"
+   weight = 12
