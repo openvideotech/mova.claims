@@ -9,18 +9,12 @@ images: []
 menu:
   docs:
     parent: "help"
-weight: 610
+weight: 80
 toc: true
 ---
 
-{{< alert icon="💡" text="Your mova identity is stored in your Key Pair. Whichever computer this is stored on, when you open mova, it will recognise you." />}}
+{{< alert icon="💡" text="Your mova identity is stored in your <a href=\"/docs/concepts/public-private-keys/\">Key Pair</a>. Whichever computer this is stored on, when you open mova, it will recognise you." />}}
 
-1. Download mova to your new computer, make sure it is the same version ([updating](/docs/help/how-to-update) on your old machine first if needed)
-2. Locate your user folder on your old computer. In the profile page of mova there is a link to help you find this.
+1. Download **mova** to your new computer, make sure it is the same version, [updating](/docs/help/how-to-update) on your old machine first if needed.
+2. Locate your user folder on your old computer. In the profile page of **mova** there is a link to help you find this.
 3. Copy the entire folder to the same location on your new computer, replacing whatever is there.
-
-D
-
-## Download and replace 
-
-Download the latest or recommended package, unpack/mount and drag into your Applications folder, replacing the existing application.

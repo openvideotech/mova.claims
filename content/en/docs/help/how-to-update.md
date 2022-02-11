@@ -9,11 +9,11 @@ images: []
 menu:
   docs:
     parent: "help"
-weight: 610
+weight: 75
 toc: true
 ---
 
-{{< alert icon="💡" text="Not all updates are the same. Small updates change the code, and won't impact data on the system. Major updates can break the existing data structure and impact your data - and you will be warned of this before updating." />}}
+{{< alert icon="💡" text="Not all updates are the same. Small updates change the code, and won't impact data on the system. Major updates can break the existing data structure and you will lose your data. You should be notified of this before updating." />}}
 
 ## Download and replace 
 
