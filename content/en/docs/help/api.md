@@ -13,11 +13,11 @@ weight: 200
 toc: true
 ---
 
-All Claims registered publicly on mova are made available via [mova.link](https://mova.link), unless they have been hidden for breaching our Terms of Service.
+All Claims registered publicly on **mova** will be made available via a public API, unless they have been hidden for breaching our Terms of Service.
 
 ## Searches
 
-The API allows developers to query the MOVA registry and return different types of data:
+The API will allow developers to query the MOVA registry and return different types of data:
 
 ### ISCC Codes
 
