@@ -15,18 +15,18 @@ toc: true
 
 ## What can mova do? 
 
-**mova** At present Mova alpha can:
- - lets you generate fingerprints for the videos you made or control the copyright of;
+At present **mova** alpha can:
+ - let you generate fingerprints for the videos you made or control the copyright for;
  - add metadata such as license & payee info;
  - verify that you are associated with / have access to a specific domain name;
  - publish this on a public shared distributed database as a 'Claim' 
  - index this database and make it public at an API endpoint
  - implement very basic moderation of videos there that break our community [Code of Conduct](/code-of-conduct/) and [Terms of Service](/terms-of-service) (such as are infringing, misleading or illegal).
- We haven't built moderation tools and don't have a community, let alone governance
+ - generate ISCC codes from videos in your posession to perform a search for matching data (a kind of reverse video search).
 
 ## lower case?
 
-**mova** can be written in all lower case or all upper case —MOVA— but we try to avoid a mix. It originally stood for Monetizing Open Video Assets or Making Open Video Awesome/Amazing/Accessible, depending who you ask.
+We try to write **mova** in all lower case, but we're not uptight about it! It originally stood for Monetizing Open Video Assets or Making Open Video Awesome/Amazing/Acessible, depending who you ask.
 
 ## What technologies does mova use?
 
