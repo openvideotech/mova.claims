@@ -18,7 +18,3 @@ images: []
 - [Wesley Finck](https://wesleyfinck.medium.com/)
 - [Silvia Schmidt](https://silviaschmidt.org/): Film and legal advice.
 
-## Links
-
-- [matter.openvide.tech](https://matter.openvide.tech) – Mattermost chat space
-- [lab.openvideo.tech](https://gitlab.openvideo.tech) – Gitlab, codebase & issues
