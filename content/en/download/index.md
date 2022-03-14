@@ -17,6 +17,6 @@ The mova app is available for Mac, Windows and Linux and can be downloaded below
 
 You will need an invitation code to use the application. 
 
- - [Linux](https://files.openvideo.tech/f.php?h=3h4GaZZM). Intel chips, not RISC.
+ - [Linux](https://files.openvideo.tech/f.php?h=3lpE8WEV). Intel (not RISC/Raspberry Pi).
  - [MacOS](https://files.openvideo.tech/f.php?h=34MmHJg5). >10.15.7
  - [Windows](https://files.openvideo.tech/f.php?h=33-BTcEy). This app has not yet been notarised for Windows so you will need to confirm it's a trusted application when you open it on Windows.
