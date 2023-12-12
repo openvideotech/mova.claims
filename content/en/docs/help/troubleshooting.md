@@ -17,13 +17,13 @@ toc: true
 
 This means there is no connection to Holochain.
 
-## Random Javascript error ion a popup box
+## Random Javascript error in a popup box
 
 Mostly these are harmless notices from [Holochain](/docs/concept/holochain/), saying something like "A Javascript error occurred in the main process, and then a long string", and can be cleared by clicking ok.
 
 ## Bigger trouble…
 
-Say hello in the [forum/chat server](https://matter.openvideo.tech).
+Say hello at mova @ openvideo.tech.
 
 ## Even bigger trouble…
 
